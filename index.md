@@ -9,6 +9,7 @@ I would start listing out what my experiences are, what programming languages I 
 ![](https://upload.wikimedia.org/wikipedia/en/b/bb/General_Iroh.jpg)
 > "Life happens wherever you are, whether you make it or not"
 
+
 ## How to Code? 
 As a Computer Science major, I think I can code lol.
 
@@ -31,3 +32,7 @@ document.getElementById("scream").addEventListener("click", () =>{
 ``` 
     print('Python is simple')
 ```
+
+
+## I think this is Pretty Cool 
+One of the games that I am currently addicted to right now is **Genshin Impact**. If ya play, let me know so we can add each others. My favorite character in the game is ***Ganyu*** and I most recently created this site to show how much I love the character ehehehhe: ![Ganyuwu](https://puzonevan.github.io/Ganyu/)
