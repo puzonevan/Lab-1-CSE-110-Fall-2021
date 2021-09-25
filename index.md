@@ -39,3 +39,30 @@ One of the games that I am currently addicted to right now is **Genshin Impact**
 
 ### Image of Ganyu 
 [](./images/Character_Ganyu_Wish.png)
+
+
+## I Think this is Pretty Cool 2 
+### Should definitely look at this 
+Besides Computer Science, I am a ***massive gamer*** and ***binger of shows and movies***. I'm currently addicted to **Valorant and Genshin Impact** right now and some of the shows I just finished or currently watching are **Squid Game** and **To Your Eternity**. 
+
+### Some of the other Games I play 
+If anybody plays the games above or below, yuh yuh: 
+- League of Legends 
+- Super Smash 
+- Pokemon Nuzlockes
+- Minecraft 
+
+### Some of the other Shows I watch 
+If anybody watches/watched the movies/shows above or below, yuh yuh: 
+1. Avatar the Last Airbender 
+2. The Good Place
+3. House MD 
+4. Friends/Community/The Office/HIMYM
+5. All Marvel Shows and Movies 
+6. The Umbrella Academy 
+
+### Some of the Games/Shows I wanna play or watch 
+- [ ] Kims Convenience Store (finishing)
+- [ ] It's okay to not be Okay
+- [ ] My Hero Academia (need to catch up)
+- [ ] Kena Bridge of Spirits
