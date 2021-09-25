@@ -13,7 +13,7 @@ I would start listing out what my experiences are, what programming languages I 
 As a Computer Science major, I think I can code lol.
 
 ### Here's some HTML/CSS/JS
-'''
+```
 <h1 id="scream">YAHHHOOOOOO</h1>
 
 h1{
@@ -25,4 +25,9 @@ h1{
 document.getElementById("scream").addEventListener("click", () =>{
     console.log("AAAAAAAAHHHHHHH");
 });
-'''
+```
+
+### Here's some Python 
+``` 
+    print('Python is simple')
+```
