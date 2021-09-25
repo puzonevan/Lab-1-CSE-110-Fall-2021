@@ -35,4 +35,4 @@ document.getElementById("scream").addEventListener("click", () =>{
 
 
 ## I think this is Pretty Cool 
-One of the games that I am currently addicted to right now is **Genshin Impact**. If ya play, let me know so we can add each others. My favorite character in the game is ***Ganyu*** and I most recently created this site to show how much I love the character ehehehhe: ![Ganyuwu](https://puzonevan.github.io/Ganyu/)git a
+One of the games that I am currently addicted to right now is **Genshin Impact**. If ya play, let me know so we can add each others. My favorite character in the game is ***Ganyu*** and I most recently created this site to show how much I love the character ehehehhe: [Ganyuwu](https://puzonevan.github.io/Ganyu/)
